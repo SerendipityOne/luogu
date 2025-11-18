@@ -46,6 +46,12 @@
 - [P4994 终于结束的起点](https://www.luogu.com.cn/problem/P4994)
 - [P5534 [XR-3] 等差数列](https://www.luogu.com.cn/problem/P5534)
 
+### Part 2 - 基础算法
+
+#### Part2.1模拟
+
+- [P1003 铺地毯](https://www.luogu.com.cn/problem/P1003)
+
 ## 使用说明
 
 1. 每个题目对应一个独立的 `.cpp` 文件
