@@ -51,6 +51,7 @@
 #### Part2.1模拟
 
 - [P1003 铺地毯](https://www.luogu.com.cn/problem/P1003)
+- [P1067 多项式输出](https://www.luogu.com.cn/problem/P1067)
 
 ## 使用说明
 
