@@ -53,6 +53,7 @@
 - [P1003 铺地毯](https://www.luogu.com.cn/problem/P1003)
 - [P1067 多项式输出](https://www.luogu.com.cn/problem/P1067)
 - [P1328 生活大爆炸版石头剪刀布](https://www.luogu.com.cn/problem/P1328)
+- [P1563 玩具谜题](https://www.luogu.com.cn/problem/P1563)
 
 ## 使用说明
 
