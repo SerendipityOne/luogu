@@ -55,6 +55,9 @@
 - [P1328 生活大爆炸版石头剪刀布](https://www.luogu.com.cn/problem/P1328)
 - [P1563 玩具谜题](https://www.luogu.com.cn/problem/P1563)
 - [P1042 乒乓球](https://www.luogu.com.cn/problem/P1042)
+- [P1179 数字统计](https://www.luogu.com.cn/problem/P1179)
+- [P2615 神奇的幻方](https://www.luogu.com.cn/problem/P2615)
+- [P3952 时间复杂度](https://www.luogu.com.cn/problem/P3952)
 
 ## 使用说明
 
