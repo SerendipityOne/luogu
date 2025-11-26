@@ -62,6 +62,7 @@
 
 - [P1177 【模板】快速排序](https://www.luogu.com.cn/problem/P1177)
 - [P1059 明明的随机数](https://www.luogu.com.cn/problem/P1059)
+- [P1068 分数线划定](https://www.luogu.com.cn/problem/P1068)
 
 ## 使用说明
 
