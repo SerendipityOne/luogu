@@ -65,6 +65,7 @@
 - [P1068 分数线划定](https://www.luogu.com.cn/problem/P1068)
 - [P1051 谁拿了最多奖学金](https://www.luogu.com.cn/problem/P1051)
 - [P1309 瑞士轮](https://www.luogu.com.cn/problem/P1309)
+- [P1908 逆序对](https://www.luogu.com.cn/problem/P1908)
 
 ## 使用说明
 
