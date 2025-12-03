@@ -67,6 +67,11 @@
 - [P1309 瑞士轮](https://www.luogu.com.cn/problem/P1309)
 - [P1908 逆序对](https://www.luogu.com.cn/problem/P1908)
 
+#### Part 2.3 二分答案
+
+-   [P1024 一元三次方程求解](https://www.luogu.com.cn/problem/P1024)
+-   [P2678 跳石头](https://www.luogu.com.cn/problem/P2678)
+
 ## 使用说明
 
 1. 每个题目对应一个独立的 `.cpp` 文件
